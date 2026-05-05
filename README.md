@@ -16,7 +16,7 @@ A simple React project that displays job cards using reusable components and dyn
 
 ## Live Demo
 
-https://your-live-link-here
+[Project link](https://react-cards-ikft-3xh04kegz-jatin-jay-31s-projects.vercel.app/)
 
 ## What I Learned
 
